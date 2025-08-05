@@ -19,6 +19,8 @@ A non-official and open-source desktop client for DeepSeek, built with modern we
 ### 下载
 [Github Release](https://github.com/DolphinSea-Network/DeepSeek-PC-Client/release)
 
+#### 或者...
+
 ### 从源码构建
 克隆仓库
 git clone https://github.com/DolphinSea-Network/DeepSeek-PC-Client.git
