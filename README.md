@@ -22,18 +22,23 @@ A non-official and open-source desktop client for DeepSeek, built with modern we
 #### 或者...
 
 ### 从源码构建
+
 克隆仓库
 git clone https://github.com/DolphinSea-Network/DeepSeek-PC-Client.git
 cd DeepSeek-PC-Client
 
+
 安装依赖
 npm install
+
 
 开发模式运行
 npm start
 
+
 打包构建
 npm run package
+
 
 ## 许可证
 
