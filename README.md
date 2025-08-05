@@ -8,12 +8,6 @@ A non-official and open-source desktop client for DeepSeek, built with modern we
 - **技术栈**：基于 [Electron](https://github.com/electron/electron) 与 [Node.js](https://nodejs.org/) 开发，结合前端技术构建跨平台桌面应用。
 - **开发背景**：由编程爱好者独立开发，旨在提供更便捷的桌面使用体验，非 DeepSeek 官方产品。
 
-## 功能特点
-
-- 简洁直观的用户界面
-- 支持 DeepSeek 核心功能的桌面化访问
-- 离线缓存与历史记录管理
-
 ## 安装与使用
 
 ### 下载(Windows)
