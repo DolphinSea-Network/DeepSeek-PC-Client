@@ -13,22 +13,24 @@ A non-official and open-source desktop client for DeepSeek, built with modern we
 - 简洁直观的用户界面
 - 支持 DeepSeek 核心功能的桌面化访问
 - 离线缓存与历史记录管理
-- 跨平台支持（Windows/macOS/Linux）
 
 ## 安装与使用
 
+### 下载
+[Github Release](https://github.com/DolphinSea-Network/DeepSeek-PC-Client/release)
+
 ### 从源码构建
-# 克隆仓库
+克隆仓库
 git clone https://github.com/DolphinSea-Network/DeepSeek-PC-Client.git
 cd DeepSeek-PC-Client
 
-# 安装依赖
+安装依赖
 npm install
 
-# 开发模式运行
+开发模式运行
 npm start
 
-# 打包构建
+打包构建
 npm run package
 
 ## 许可证
