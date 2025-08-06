@@ -42,4 +42,4 @@ npm run package
 - 主要代码由AI（ [豆包](https://www.doubao.com) 和 [DeepSeek](https://www.deepseek.com)）提供
 - 本项目为非官方客户端，与 DeepSeek 官方无任何关联
 - 使用前请遵守 DeepSeek 官方的使用条款与服务协议
-- 开发者不对使用本软件可能产生的任何损失（如[https://www.bilibili.com/video/BV1Qq3vzPEDX](这位B站的用户)）负责
+- 开发者不对使用本软件可能产生的任何损失（如[这个B站用户](https://www.bilibili.com/video/BV1Qq3vzPEDX)）负责
